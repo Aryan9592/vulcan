@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/nomoixyz/vulcan/compare/v0.3.1...v0.4.0) (2023-09-02)
+
+
+### Features
+
+* request module ([#174](https://github.com/nomoixyz/vulcan/issues/174)) ([63b58b4](https://github.com/nomoixyz/vulcan/commit/63b58b4803d50ad62e131ba344046bb054adb52f))
+
 ## [0.3.1](https://github.com/nomoixyz/vulcan/compare/v0.3.0...v0.3.1) (2023-09-01)
 
 
